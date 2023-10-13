@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ongsiming.github.io/sitemap.xml
+Sitemap: https://www.taejunkim.dev/sitemap.xml
